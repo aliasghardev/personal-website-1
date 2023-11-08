@@ -2,7 +2,8 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![17](https://github.com/aliasghardev/personal-website-1/assets/144837096/a404da8b-c732-4b06-8079-385644ee0e3e)
+![17](https://github.com/aliasghardev/personal-website-1/assets/144837096/4bab248b-937b-4b04-80f8-ea36331616cf)
+
 
 - [Demo Project](https://aliasghardev.github.io/personal-website-1/)
 
