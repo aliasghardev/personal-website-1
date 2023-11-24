@@ -11,7 +11,7 @@
 
 - Created - 2023/10/27
 
-- Technologies Used - Html , tailwind
+- Technologies Used - Html , tailwind , responsive 
 
 - Hooks Used : useState 
 
